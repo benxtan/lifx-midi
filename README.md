@@ -4,6 +4,8 @@ lifx-midi
 ## What is it?
 This console app allows you to randomly change the colour of your LIFX whenever it receives a MIDI Note On message with velocity 127. My current setup uses a Novation Launchpad and Ableton Live with a drum rack.
 
+Heres a test video.
+
 ## Pre-requisites
 - gem install unimidi
 - gem install lifx
