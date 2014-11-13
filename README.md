@@ -7,10 +7,11 @@ This console app allows you to randomly change the colour of your LIFX whenever 
 Heres a test video http://instagram.com/p/o1AJBaOoDd/
 
 ## Pre-requisites
-- gem install unimidi
-- gem install lifx
+- sudo gem install -V unimidi
+- sudo gem install -V lifx
 
 ## Instructions
 - Open terminal
 - Navigate to the Development directory
-- ruby lifx-midi.rb 
+- ruby lifx-midi.rb
+- Press Enter to stop
